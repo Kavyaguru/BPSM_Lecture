@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Modified master branch
+=======
+Test branch check
+>>>>>>> test_branch
